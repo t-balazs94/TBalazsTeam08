@@ -1,3 +1,5 @@
+export { };
+
 var aOldal: number = 5;
 var bOldal: number = 6;
 var kerulet: number = 2 * (aOldal + bOldal);
